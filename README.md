@@ -14,8 +14,8 @@ Before using the boilerplate, we recommend you to go through the documentation o
 
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--haier-ecom--dignego.aem.page/
+- Live: https://main--haier-ecom--dignego.aem.live/
 
 ## Pre-requisites
 
